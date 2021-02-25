@@ -2,10 +2,11 @@
 page_type: sample
 languages:
 - powershell
+- azurepowershell
 products:
 - azure
 - azure-netapp-files
-description: "This project demonstrates how to create a dual-protocol Volume for Microsoft.NetApp resource provider using PowerShell SDK.
+description: This project demonstrates how to create a dual-protocol Volume for Microsoft.NetApp resource provider using PowerShell SDK.
 ---
 
 # Azure NetAppFiles SDK Sample - Dual-Protocol for PowerShell 
