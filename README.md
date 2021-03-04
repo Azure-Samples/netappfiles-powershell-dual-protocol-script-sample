@@ -16,13 +16,13 @@ This project demonstrates how to create a dual-protocol Volume (uses both SMB/NF
 In this sample application we perform the following operations:
 
 * Creations
-    * ANF Account
+    * Azure NetApp Files Account
     * Capacity Pool
     * Dual-Protocol Volume
 * Deletions
     * Dual-Protocol Volume
     * Capacity Pool
-    * ANF Account
+    * Azure NetApp Files Account
 
 >Note: The cleanup execution is disabled by default. If you want to run this end to end with the cleanup, please
 >change value of boolean variable 'CleanupResources' in CreateANFDualProtocolVolume.ps1
